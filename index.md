@@ -2,4 +2,4 @@
 layout: default
 ---
 
-[Link to another page](./another-page.html).
+[Download my Simple Themes OpenCore ](./DownloadThemes.md).
