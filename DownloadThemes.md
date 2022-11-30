@@ -7,9 +7,6 @@ description: Download Themes OpenCore
 ## Welcome to My Simple Themes OpenCore
 
 
-[back](./)
-
-
 ---
 ⬇︎ View Boot screen and Downloads Themes OpenCore 0.7.0 and higher
 
@@ -363,4 +360,6 @@ description: Download Themes OpenCore
 - Download ➤ [WhyNot](https://github.com/chris1111/My-Simple-OC-Themes/raw/master/Resources-0.7.0/WhyNot.zip)
 <img width="850" alt="1" src="https://github.com/chris1111/My-Simple-OC-Themes/raw/master/View%20Boot%200.7/WhyNot.png">
 
-[Back on top ↑](https://github.com/chris1111/My-Simple-OC-Themes/blob/master/Download.md)
+
+
+[back on top](./)
